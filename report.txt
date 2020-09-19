@@ -1,0 +1,6 @@
+Things we are going to do with our project:
+1) Making a website so as the client can interact
+i) We are halfway through our website and our home page is finished and currently we are working on the backend.
+2) We are making a chatbot for the user to interact with and solve his/her queries.
+i) We have found the dataset and are currently working on making the chatbot.
+3) We are looking for new features to add as well and that may come up on the way so...
